@@ -1,4 +1,4 @@
-#YDKB Louise PCB
+# YDKB Louise PCB
 
 v1.0 PCB的外形是参考Prime E的，具体由这里获取：https://www.primekb.com/products/prime_e-rev-2-pcb
 
@@ -7,3 +7,9 @@ v1.0 PCB的外形是参考Prime E的，具体由这里获取：https://www.prime
 Louise PCB v1.0 3D.step为kicad导出的3D外形文件，供自己做外壳时对照使用。
 
 提示：要更好的使用蓝牙的话，至少在顶部留出一条足够长和宽的区域，不使用挡信号的材质（比如用PC）。建议是125mm以上长，6mm以上宽。
+
+![](./assets/PCB_v1.0.png)
+
+虽然它是40%，但占用的空间只是略小于60%（下图为与65%的对比）
+
+![](./assets/Louise_3d_case.jpg)
